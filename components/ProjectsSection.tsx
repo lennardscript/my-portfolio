@@ -19,11 +19,11 @@ const projects = [
 
   },
   {
-    name: 'Marketplace Paddle Board',
+    name: 'Marketplace Puddle Board',
 
     description: 'Es uno de los proyectos más completos que he hecho y el primer marketplace que he desarrollado, ha sido desarrollada con las tecnologías HTML, Tailwind CSS y Django, en un futuro será mejorado su Frontend.',
 
-    image: '/marketplacepaddle.png',
+    image: '/marketplacepuddle.png',
 
     github: 'https://github.com/lennardscript/marketplace-puddle',
 
