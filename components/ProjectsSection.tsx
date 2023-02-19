@@ -13,7 +13,7 @@ const projects = [
 
     image: '/portfolioproject.png',
 
-    github: 'https://github.com/lennardscript/portfolio-website',
+    github: 'https://github.com/lennardscript/my-portfolio',
 
     link: '',
 
