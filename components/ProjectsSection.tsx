@@ -15,7 +15,7 @@ const projects = [
 
     github: 'https://github.com/lennardscript/my-portfolio',
 
-    link: '',
+    link: 'https://leaburgos.vercel.app/',
 
   },
   {
