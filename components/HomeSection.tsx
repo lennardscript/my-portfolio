@@ -3,6 +3,7 @@ import React from 'react'
 import Image from 'next/image'
 import { Link } from 'react-scroll/modules'
 import { HiArrowDown } from 'react-icons/hi'
+import Notification from './Notification'
 
 const HomeSection = () => {
   return (
@@ -18,7 +19,7 @@ const HomeSection = () => {
               Ingeniero en informática | Programador{" "}
             </span>
           </p>
-          <button className='text-neutral-100 font-semibold px-6 py-3 bg-[#035AA6] rounded shadow hover:bg-[#001E6C]'><a href="" target='_blank'>Ver mi CV</a></button>
+          <Notification />
         </div>
       </div>
 

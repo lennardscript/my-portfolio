@@ -27,7 +27,7 @@ const projects = [
 
     github: 'https://github.com/lennardscript/marketplace-puddle',
 
-    link: '',
+    link: '#',
 
   }
 ]
@@ -53,7 +53,7 @@ const ProjectsSection = () => {
                 alt=''
                 width={1000} 
                 height={1000} 
-                className='rounded-xl shadow-xl hove:opacity-70' />
+                className='rounded-xl shadow-xl hover:opacity-70' />
                 </Link>
                 </div>
                 <div className='mt-12 md:w-1/2'>
