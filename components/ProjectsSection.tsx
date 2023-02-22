@@ -27,7 +27,19 @@ const projects = [
 
     github: 'https://github.com/lennardscript/marketplace-puddle',
 
-    link: '#',
+    link: '',
+
+  },
+  {
+    name: 'Próximamente...',
+
+    description: 'En un futuro próximo se subira más proyectos, ¡vuelva más tarde!',
+
+    image: '/proximamente.png',
+
+    github: '',
+
+    link: '',
 
   }
 ]
