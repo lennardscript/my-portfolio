@@ -7,8 +7,6 @@ const tech = [
   {tech: 'Django'},
   {tech: 'Java'},
   {tech: 'Spring'},
-  {tech: 'C#'},
-  {tech: '.NET'},
   {tech: 'HTML5'},
   {tech: 'CSS3'},
   {tech: 'TailwindCSS'},
