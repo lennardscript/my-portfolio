@@ -7,7 +7,7 @@ export default function Head() {
       <meta name="title" property="og:title" content="Leandro's Portfolio Site" />
       <meta name="type" property="og:type" content="website" />
       <meta name="url" property="og:url" content="https://leaburgos.vercel.app/" />
-      <meta property="og:image" content="../public/portfolioproject.png" />
+      <meta property="og:image" content="https://i.imgur.com/tj4l55K.png" />
       <meta name="description" content="Bienvenido/a a mi portafolio personal" />
       <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
     </>
