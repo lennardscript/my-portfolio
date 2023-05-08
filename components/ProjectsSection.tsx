@@ -21,7 +21,7 @@ const projects = [
   {
     name: 'Librería Imagina | Proyecto de Integración de plataformas',
 
-    description: 'Uno de los proyectos que he desarrollado dentro de la Institución. Consiste en una página web en donde abarcara todo la gestión de libros de una empresa ficticia llama "Librería Imagina" con la posibilidad de comunicarse con otro sistema que en este caso es una aplicación de escritorio (que cumple como el rol de un sistema de inventario de una bodega de la empresa ficticia para así maneje todas sus operaciones logísticas), se podrán comunicarse entre sí por medio de web services, en este proyecto se ha utilizado APIS, también contara conexión a base de datos (ambos sistemas, web y escritorio). La página web ha sido desarrollada con HTML, Tailwind CSS, Django y React. Por el otro lado, la aplicación de escritorio ha sido desarrollada con C#',
+    description: 'Uno de los proyectos que he desarrollado dentro de la Institución. Consiste en una página web en donde abarcara todo la gestión de libros de una empresa ficticia llamada "Librería Imagina" con la posibilidad de comunicarse con otro sistema que en este caso es una aplicación de escritorio (que cumple como el rol de un sistema de inventario de una bodega de la empresa ficticia para así maneje todas sus operaciones logísticas), se podrán comunicarse entre sí por medio de web services, en este proyecto se ha utilizado APIS, también contara conexión a base de datos (ambos sistemas, web y escritorio). La página web ha sido desarrollada con HTML, Tailwind CSS, Django y React. Por el otro lado, la aplicación de escritorio ha sido desarrollada con C#',
 
     image: '/libreriaimagina.png',
 
