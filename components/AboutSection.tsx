@@ -17,7 +17,7 @@ const tech = [
   {tech: 'TypeScript'},
   {tech: 'NodeJS'},
   {tech: 'Express'},
-  {tech: 'Angular'},
+  {tech: 'Vue'},
   {tech: 'React'},
   {tech: 'NextJS'},
   {tech: 'Ionic'},
